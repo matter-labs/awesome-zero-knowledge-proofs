@@ -103,7 +103,7 @@ Protocol descriptions:
 ## STARKS
 
 <div>
-	<img width="200" src="starks.jpg" alt="STARKS">
+	<img width="350" src="starks.jpg" alt="STARKS">
 </div>
 
 Introduction:
