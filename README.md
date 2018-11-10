@@ -1,5 +1,6 @@
 # Awesome zero knowledge proofs (zkp)
 
+> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome things related to learning zero knowledge proofs
 
 ## Contents
