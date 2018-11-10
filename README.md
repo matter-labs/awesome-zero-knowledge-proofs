@@ -48,9 +48,9 @@ More complete curated list of implementations and scientific ressources:
 | - size estimate for 1 TX              | Tx: 200 bytes, Key: 50 MB  | 45 kB                         | 1.5 kb          |
 | - size estimate for 10.000 TX         | Tx: 200 bytes, Key: 500 GB | 135 kb                        | 2.5 kb          |
 | Ethereum/EVM verification gas cost    | ~600k (Groth16)            | ~2.5M (estimate, no impl.)    | N/A             |
-| Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :unamused:   |
+| Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
 | Post-quantum secure                   | NO :unamused:              | YES :smile:                   | NO :unamused:   |
-| Crypto assumptions                    | Strong :unamused:          | Collision resistant hashes :smile: | Discrete log :smile: |
+| Crypto assumptions                    | Strong :unamused:          | Collision resistant hashes :smile: | Discrete log :smirk: |
 
 ## SNARKs
 
