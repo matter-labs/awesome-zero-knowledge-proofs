@@ -102,7 +102,9 @@ Protocol descriptions:
 
 ## STARKS
 
-![sexy-starks](sexy-starks.jpg)
+<div>
+	<img width="200" src="starks.jpg" alt="STARKS">
+</div>
 
 Introduction:
 - [Transparent Succinct Arguments by Alessandro Chiesa (Oct 2018)](https://gist.github.com/Haseeb-Qureshi/f552fdbbb649ed4bbfeb681beb4091e1)
