@@ -1,1 +1,1 @@
-Please submit a pull request
+Please, only submit pull requests for stuff you or another contributor can personally recommend. Thank you!
