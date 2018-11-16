@@ -27,6 +27,7 @@ More complete curated list of implementations and scientific ressources:
 ### Active
 
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
+  - [chatroom](https://chat.zcashcommunity.com/channel/zapps-wg)
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
 
 ### Work in progress
