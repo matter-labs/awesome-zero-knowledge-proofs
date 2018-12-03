@@ -135,6 +135,9 @@ More ressources available at [starkware.co](https://www.starkware.co)
 - [Introduction and collection of ressources](https://crypto.stanford.edu/bulletproofs/)
 - [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
 
+Proof system implementations:
+- [Programmable Constraint Systems for Bulletproofs](https://medium.com/interstellar/programmable-constraint-systems-for-bulletproofs-365b9feb92f7)
+
 ## Social media
 
 Stay tuned!
