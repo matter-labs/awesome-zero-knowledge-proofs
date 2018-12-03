@@ -132,7 +132,8 @@ More ressources available at [starkware.co](https://www.starkware.co)
 
 ## Bulletproofs
 
-[Introduction and collection of ressources](https://crypto.stanford.edu/bulletproofs/)
+- [Introduction and collection of ressources](https://crypto.stanford.edu/bulletproofs/)
+- [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
 
 ## Social media
 
