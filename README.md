@@ -35,6 +35,7 @@ More complete curated list of implementations and scientific ressources:
 - [Coda: A Constant-Size Blockchain](https://codaprotocol.com) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](http://grin-tech.org) (Bulletproofs)
+- [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
 - [Rollup: Ethereum Plasma on SNARKs](https://github.com/barryWhiteHat/roll_up)
   - [chatroom on gitter](https://gitter.im/barrywhitehat/roll_up)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
