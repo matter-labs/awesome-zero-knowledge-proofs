@@ -28,20 +28,20 @@ More complete curated list of implementations and scientific ressources:
 
 ## Applications
 
-### Active
+### Ethereum
+
+- [Live Rollup (SNARK-based "Plasma") tesnet by Matter Labs](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
+- [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up)
+- [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
+
+### Work in progress
 
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
   - [chatroom](https://chat.zcashcommunity.com/channel/zapps-wg)
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
-
-### Work in progress
-
-- [Rollup: SNARK-based permissioned database](https://github.com/barryWhiteHat/roll_up)
-- [Live Rollup tesnet on Rinkeby by Matter Labs](https://medium.com/plasma-ignis/presenting-ignis-plasma-of-fire-502fab5a6f17)
 - [Coda: A Constant-Size Blockchain](https://codaprotocol.com) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](http://grin-tech.org) (Bulletproofs)
-- [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
 
 ## Comparison of the most popular zkp systems
 
