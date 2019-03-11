@@ -34,7 +34,7 @@ More complete curated list of implementations and scientific ressources:
 - [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
 
-### Work in progress
+### Other blockchains
 
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
   - [chatroom](https://chat.zcashcommunity.com/channel/zapps-wg)
