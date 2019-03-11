@@ -9,6 +9,7 @@
 - [Applications](#applications)
 - [Comparison of the most popular zkp systems](#comparison-of-the-most-popular-zkp-systems)
 - [SNARKs](#snarks)
+- [Sonic](#sonic)
 - [STARKs](#starks)
 - [Bulletproofs](#bulletproofs)
 - [Social media](#social-media)
@@ -35,11 +36,11 @@ More complete curated list of implementations and scientific ressources:
 
 ### Work in progress
 
+- [Rollup: SNARK-based permissioned database](https://github.com/barryWhiteHat/roll_up)
+- [Live Rollup tesnet on Rinkeby by Matter Labs](https://medium.com/plasma-ignis/presenting-ignis-plasma-of-fire-502fab5a6f17)
 - [Coda: A Constant-Size Blockchain](https://codaprotocol.com) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](http://grin-tech.org) (Bulletproofs)
-- [Rollup: SNARK-based permissioned database](https://github.com/barryWhiteHat/roll_up)
-- [SNARK-driven Plasma on SNARKs](https://medium.com/plasma-ignis/presenting-ignis-plasma-of-fire-502fab5a6f17)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
 
 ## Comparison of the most popular zkp systems
@@ -106,15 +107,17 @@ Protocol descriptions:
   - [Independent implementation in Go](https://github.com/FiloSottile/powersoftau/)
 - [Implementation of ZCash MPC Ceremony, Part I: "Sapling Circuit"](https://github.com/zcash-hackworks/sapling-mpc)
 
-## STARKS
+## Sonic
 
-<div>
-	<img width="350" src="starks.jpg" alt="STARKS">
-</div>
+[Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings](https://eprint.iacr.org/2019/099)
+[Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line)
+
+## STARKS
 
 Introduction:
 - [Transparent Succinct Arguments by Alessandro Chiesa (Oct 2018)](https://gist.github.com/Haseeb-Qureshi/f552fdbbb649ed4bbfeb681beb4091e1)
 - [State of the STARK by Eli Ben-Sasson (Devcon IV, Oct 2018)](https://drive.google.com/file/d/1Osa0MXu-04dfwn1YOSgN6CXOgWnsp-Tu/view) ([video](https://www.youtube.com/watch?v=1KSwVIZ82hs))
+- [Introduction to ZK-STARKs by remco@0x.org](https://hackmd.io/s/rJHYnQ3Z4)
 
 Vitalik Buterin's blog series on STARKs:
 - [Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
