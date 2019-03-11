@@ -109,8 +109,8 @@ Protocol descriptions:
 
 ## Sonic
 
-[Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings](https://eprint.iacr.org/2019/099)
-[Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line)
+- [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings](https://eprint.iacr.org/2019/099)
+- [Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line)
 
 ## STARKS
 
