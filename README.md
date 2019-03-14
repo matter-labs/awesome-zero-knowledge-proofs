@@ -48,8 +48,8 @@ More complete curated list of implementations and scientific ressources:
 
 |                                       | SNARKs                     | STARKs                        | Bulletproofs    |
 | ------------------------------------: | -------------------------: | ----------------------------: | --------------: |
-| Algoritmic complexity: prover         | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
-| Algoritmic complexity: verifier       | ~O(1)                      | O(poly-log(N))                | O(N)            |
+| Algorithmic complexity: prover        | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
+| Algorithmic complexity: verifier      | ~O(1)                      | O(poly-log(N))                | O(N)            |
 | Communication complexity (proof size) | ~O(1)                      | O(poly-log(N))                | O(log(N))       |
 | - size estimate for 1 TX              | Tx: 200 bytes, Key: 50 MB  | 45 kB                         | 1.5 kb          |
 | - size estimate for 10.000 TX         | Tx: 200 bytes, Key: 500 GB | 135 kb                        | 2.5 kb          |
