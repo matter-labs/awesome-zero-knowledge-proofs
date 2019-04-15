@@ -110,6 +110,7 @@ Protocol descriptions:
 
 ## Sonic
 
+- [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)
 - [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings](https://eprint.iacr.org/2019/099)
 - [Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line)
 
