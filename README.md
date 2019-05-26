@@ -9,43 +9,48 @@
 - [Applications](#applications)
 - [Comparison of the most popular zkp systems](#comparison-of-the-most-popular-zkp-systems)
 - [SNARKs](#snarks)
+- [Sonic](#sonic)
 - [STARKs](#starks)
 - [Bulletproofs](#bulletproofs)
 - [Social media](#social-media)
 
 ## General introduction
 
+[Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519): alternative introductory list for beginners (more videos).
+
 - [Zero Knowledge Proofs: An illustrated primer by Matthew Green](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 - [Demystifying zero-knowledge proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p) (math-heavy, awesome introduction into underlying cryptography)
 - [Introduction to SNARKs/STARKs by Eli Ben-Sasson](https://www.youtube.com/watch?v=VUN35BC11Qw) (YouTube)
+- [On Interactive Proofs and Zero-Knowledge: A Primer](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
 
 More complete curated list of implementations and scientific ressources:
 [https://zkp.science](https://zkp.science)
 
 ## Applications
 
-### Active
+### Ethereum
+
+- [Live Rollup (SNARK-based "Plasma") tesnet by Matter Labs](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
+  - [Matter Labs gitter room](https://gitter.im/matter_labs/community)
+- [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up)
+- [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
+
+### Other blockchains
 
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
   - [chatroom](https://chat.zcashcommunity.com/channel/zapps-wg)
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
-
-### Work in progress
-
 - [Coda: A Constant-Size Blockchain](https://codaprotocol.com) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](http://grin-tech.org) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
-- [Rollup: Ethereum Plasma on SNARKs](https://github.com/barryWhiteHat/roll_up)
-  - [chatroom on gitter](https://gitter.im/barrywhitehat/roll_up)
-- [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
 
 ## Comparison of the most popular zkp systems
 
 |                                       | SNARKs                     | STARKs                        | Bulletproofs    |
 | ------------------------------------: | -------------------------: | ----------------------------: | --------------: |
-| Algoritmic complexity: prover         | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
-| Algoritmic complexity: verifier       | ~O(1)                      | O(poly-log(N))                | O(N)            |
+| Algorithmic complexity: prover        | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
+| Algorithmic complexity: verifier      | ~O(1)                      | O(poly-log(N))                | O(N)            |
 | Communication complexity (proof size) | ~O(1)                      | O(poly-log(N))                | O(log(N))       |
 | - size estimate for 1 TX              | Tx: 200 bytes, Key: 50 MB  | 45 kB                         | 1.5 kb          |
 | - size estimate for 10.000 TX         | Tx: 200 bytes, Key: 500 GB | 135 kb                        | 2.5 kb          |
@@ -104,15 +109,18 @@ Protocol descriptions:
   - [Independent implementation in Go](https://github.com/FiloSottile/powersoftau/)
 - [Implementation of ZCash MPC Ceremony, Part I: "Sapling Circuit"](https://github.com/zcash-hackworks/sapling-mpc)
 
-## STARKS
+## Sonic
 
-<div>
-	<img width="350" src="starks.jpg" alt="STARKS">
-</div>
+- [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)
+- [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings](https://eprint.iacr.org/2019/099)
+- [Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line)
+
+## STARKS
 
 Introduction:
 - [Transparent Succinct Arguments by Alessandro Chiesa (Oct 2018)](https://gist.github.com/Haseeb-Qureshi/f552fdbbb649ed4bbfeb681beb4091e1)
 - [State of the STARK by Eli Ben-Sasson (Devcon IV, Oct 2018)](https://drive.google.com/file/d/1Osa0MXu-04dfwn1YOSgN6CXOgWnsp-Tu/view) ([video](https://www.youtube.com/watch?v=1KSwVIZ82hs))
+- [Introduction to ZK-STARKs by remco@0x.org](https://hackmd.io/s/rJHYnQ3Z4)
 
 Vitalik Buterin's blog series on STARKs:
 - [Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
