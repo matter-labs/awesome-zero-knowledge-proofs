@@ -24,6 +24,12 @@
 - [Introduction to SNARKs/STARKs by Eli Ben-Sasson](https://www.youtube.com/watch?v=VUN35BC11Qw) (YouTube)
 - [On Interactive Proofs and Zero-Knowledge: A Primer](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
 
+A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
+- [Part I](http://www.shirpeled.com/2018/09/a-hands-on-tutorial-for-zero-knowledge.html)
+- [Part II](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge.html)
+- [Part III](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html)
+- [Appendix](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_4.html)
+
 More complete curated list of implementations and scientific ressources:
 [https://zkp.science](https://zkp.science)
 
@@ -131,12 +137,6 @@ Vitalik Buterin's blog series on STARKs:
 - [Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
 - [Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
 - [Part III: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
-
-A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
-- [Part I](http://www.shirpeled.com/2018/09/a-hands-on-tutorial-for-zero-knowledge.html)
-- [Part II](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge.html)
-- [Part III](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html)
-- [Appendix](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_4.html)
 
 Academic ressources:
 - [The STARK paper](https://eprint.iacr.org/2018/046.pdf)
