@@ -84,7 +84,7 @@ Vitalik Buterin's blog series on SNARKs:
 Protocol descriptions:
 - [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 - [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
-- [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/sapling.pdf) (very useful as detailed cheat-sheet of all cryptography used)
+- [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) (very useful as detailed cheat-sheet of all cryptography used)
 
 ### Try
 
