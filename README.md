@@ -43,6 +43,7 @@ More complete curated list of implementations and scientific ressources:
 - [Coda: A Constant-Size Blockchain](https://codaprotocol.com) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](http://grin-tech.org) (Bulletproofs)
+- [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
 
 ## Comparison of the most popular zkp systems
 
