@@ -45,6 +45,7 @@ More complete curated list of implementations and scientific ressources:
   - [Matter Labs gitter room](https://gitter.im/matter_labs/community)
 - [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
+- [Loopring DEX Protocol (v3)](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 
 ### Other blockchains
 
