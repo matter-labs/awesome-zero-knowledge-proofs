@@ -151,7 +151,11 @@ More ressources available at [starkware.co](https://www.starkware.co)
 - [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
 - [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol.
 
-Proof system implementations:
+### Try
+- [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs)
+- [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs)
+
+### Proof system implementations:
 - [Programmable Constraint Systems for Bulletproofs](https://medium.com/interstellar/programmable-constraint-systems-for-bulletproofs-365b9feb92f7)
 
 ## Social media
