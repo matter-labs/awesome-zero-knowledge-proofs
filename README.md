@@ -41,8 +41,9 @@ More complete curated list of implementations and scientific ressources:
 
 ### Ethereum
 
-- [Live Rollup (SNARK-based "Plasma") tesnet by Matter Labs](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
+- [Rollup](https://medium.com/matter-labs/) by [Matter Labs](https://matter-labs.io/)
   - [Matter Labs gitter room](https://gitter.im/matter_labs/community)
+  - [Demo loadtest on the Ethereum mainnet](https://mainnet.matter-labs.io/explorer/)
 - [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
 - [Loopring DEX Protocol (v3)](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
