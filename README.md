@@ -99,7 +99,7 @@ More complete curated list of implementations and scientific ressources:
 
 ## SNARKs
 
-> SNARK = Succinct Non-interactive ARguments of Knowledge
+> SNARK = **S**uccinct **N**on-interactive **AR**guments of **K**nowledge
 
 ### Learn
 
@@ -164,7 +164,7 @@ Protocol descriptions:
 
 ## SNORKs
 
-> SNORK = Succinct Oecumenical (Universal) ARguments of Knowledge
+> SNORK = **S**uccinct **O**ecumenical (Universal) **AR**guments of **K**nowledge
 
 SNORKs are SNARKs with universal and updateable trusted setup.
 
@@ -189,7 +189,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 ## STARKS
 
-> STARK = Sucinct/Scalable Transparent ARguments of Knowledge
+> STARK = **S**ucinct (**S**calable) **T**ransparent **AR**guments of **K**nowledge
 
 STAKRs are SNARKs without Trusted Setup.
 
