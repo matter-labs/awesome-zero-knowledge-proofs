@@ -12,7 +12,7 @@
 - [Bulletproofs](#bulletproofs)
   - [Halo](#halo)
 - [SNARKs](#snarks)
-- [SNORKs]
+- [SNORKs](#snorks)
   - [Sonic](#sonic)
   - [Marlin](#marlin)
   - [PLONK](#plonk)
