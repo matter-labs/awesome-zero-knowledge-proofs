@@ -9,10 +9,17 @@
 - [Courses](#courses)
 - [Applications](#applications)
 - [Comparison of the most popular zkp systems](#comparison-of-the-most-popular-zkp-systems)
-- [SNARKs](#snarks)
-- [Sonic](#sonic)
-- [STARKs](#starks)
 - [Bulletproofs](#bulletproofs)
+  - [Halo](#halo)
+- [SNARKs](#snarks)
+- [SNORKs]
+  - [Sonic](#sonic)
+  - [Marlin](#marlin)
+  - [PLONK](#plonk)
+- [STARKs](#starks)
+  - [FRI-STARKs](#fri-starks)
+  - [SuperSonic](#supersonic)
+  - [Fractal](#fractal)
 - [Social media](#social-media)
 
 ## General introduction
@@ -73,6 +80,23 @@ More complete curated list of implementations and scientific ressources:
 | Post-quantum secure                   | NO :unamused:              | YES :smile:                   | NO :unamused:   |
 | Crypto assumptions                    | Strong :unamused:          | Collision resistant hashes :smile: | Discrete log :smirk: |
 
+## Bulletproofs
+
+- [Introduction and collection of ressources](https://crypto.stanford.edu/bulletproofs/)
+- [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
+- [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol.
+
+### Try
+- [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs)
+- [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs)
+
+### Proof system implementations:
+- [Programmable Constraint Systems for Bulletproofs](https://medium.com/interstellar/programmable-constraint-systems-for-bulletproofs-365b9feb92f7)
+
+### Halo
+
+- [Halo: Recursive bullet proof composition](https://www.coindesk.com/you-can-now-prove-a-whole-blockchain-with-one-math-problem-really)
+
 ## SNARKs
 
 ### Learn
@@ -124,7 +148,6 @@ Protocol descriptions:
 - [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks)
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
 
-
 ### Scaling the prover
 
 - [DIZK: Java library for distributed zero knowledge proof systems with Apache Spark](https://github.com/scipr-lab/dizk) (see the [research paper](https://eprint.iacr.org/2018/691))
@@ -137,13 +160,32 @@ Protocol descriptions:
   - [Independent implementation in Go](https://github.com/FiloSottile/powersoftau/)
 - [Implementation of ZCash MPC Ceremony, Part I: "Sapling Circuit"](https://github.com/zcash-hackworks/sapling-mpc)
 
-## Sonic
+## SNORKs
+
+Succinct Oecumenical (Universal) Arguments of Knowledge: SNARKs with universal and updateable trusted setup.
+
+### Sonic
 
 - [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)
 - [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings](https://eprint.iacr.org/2019/099)
 - [Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line)
 
+### PLONK
+
+(This is a recent develpment. Contributions are welcome!)
+
+- [Understanding PLONK by Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [Ignition: Trusted Setup MPC Ceremony for PLONK (planned October 2019)](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
+
+### Marlin
+
+(This is a recent develpment. Contributions are welcome!)
+
+- https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/
+
 ## STARKS
+
+### FRI-STARKs
 
 Introduction:
 - [Transparent Succinct Arguments by Alessandro Chiesa (Oct 2018)](https://gist.github.com/Haseeb-Qureshi/f552fdbbb649ed4bbfeb681beb4091e1)
@@ -161,18 +203,17 @@ Academic ressources:
 
 More ressources available at [starkware.co](https://www.starkware.co)
 
-## Bulletproofs
+### SuperSonic
 
-- [Introduction and collection of ressources](https://crypto.stanford.edu/bulletproofs/)
-- [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
-- [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol.
+(This is a recent develpment. Contributions are welcome!)
 
-### Try
-- [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs)
-- [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs)
+https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/
 
-### Proof system implementations:
-- [Programmable Constraint Systems for Bulletproofs](https://medium.com/interstellar/programmable-constraint-systems-for-bulletproofs-365b9feb92f7)
+### Fractal
+
+(This is a recent develpment. Contributions are welcome!)
+
+https://eprint.iacr.org/2019/1076
 
 ## Social media
 
