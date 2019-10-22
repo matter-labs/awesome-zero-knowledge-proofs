@@ -99,6 +99,8 @@ More complete curated list of implementations and scientific ressources:
 
 ## SNARKs
 
+> SNARK = Succinct Non-interactive ARguments of Knowledge
+
 ### Learn
 
 Get started:
@@ -162,7 +164,9 @@ Protocol descriptions:
 
 ## SNORKs
 
-Succinct Oecumenical (Universal) Arguments of Knowledge: SNARKs with universal and updateable trusted setup.
+> SNORK = Succinct Oecumenical (Universal) ARguments of Knowledge
+
+SNORKs are SNARKs with universal and updateable trusted setup.
 
 ### Sonic
 
@@ -184,6 +188,10 @@ Succinct Oecumenical (Universal) Arguments of Knowledge: SNARKs with universal a
 - https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/
 
 ## STARKS
+
+> STARK = Sucinct/Scalable Transparent ARguments of Knowledge
+
+STAKRs are SNARKs without Trusted Setup.
 
 ### FRI-STARKs
 
@@ -207,13 +215,13 @@ More ressources available at [starkware.co](https://www.starkware.co)
 
 (This is a recent develpment. Contributions are welcome!)
 
-https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/
+- https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/
 
 ### Fractal
 
 (This is a recent develpment. Contributions are welcome!)
 
-https://eprint.iacr.org/2019/1076
+- https://eprint.iacr.org/2019/1076
 
 ## Social media
 
