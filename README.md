@@ -191,7 +191,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 > STARK = **S**ucinct (**S**calable) **T**ransparent **AR**guments of **K**nowledge
 
-STAKRs are SNARKs without Trusted Setup.
+STARKs are SNARKs without Trusted Setup.
 
 ### FRI-STARKs
 
