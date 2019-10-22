@@ -81,6 +81,18 @@ Get started:
 - [Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
 - [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
 
+Why and How zk-SNARK Works:
+
+- [Why and How zk-SNARK Works 1: Introduction & the Medium of a Proof](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160)
+- [Why and How zk-SNARK Works 2: Proving Knowledge of a Polynomial](https://medium.com/@imolfar/why-and-how-zk-snark-works-2-proving-knowledge-of-a-polynomial-f817760e2805)
+- [Why and How zk-SNARK Works 3: Non-interactivity & Distributed Setup](https://medium.com/@imolfar/why-and-how-zk-snark-works-3-non-interactivity-distributed-setup-c0310c0e5d1c)
+- [Why and How zk-SNARK Works 4: General-Purpose Computation](https://medium.com/@imolfar/why-and-how-zk-snark-works-4-general-purpose-computation-dcdc8081ee42)
+- [Why and How zk-SNARK Works 5: Variable Polynomials](https://medium.com/@imolfar/why-and-how-zk-snark-works-5-variable-polynomials-3b4e06859e30)
+- [Why and How zk-SNARK Works 6: Verifiable Computation Protocol
+](https://medium.com/@imolfar/why-and-how-zk-snark-works-6-verifiable-computation-protocol-1aa19f95a5cc)
+- [Why and How zk-SNARK Works 7: Constraints and Public Inputs](https://medium.com/@imolfar/why-and-how-zk-snark-works-7-constraints-and-public-inputs-e95f6596dd1c)
+- [Why and How zk-SNARK Works 8: Zero-Knowledge Computation](https://medium.com/@imolfar/why-and-how-zk-snark-works-8-zero-knowledge-computation-f120339c2c55)
+
 Zcash blog series:
 - [Explaining SNARKs Part I: Homomorphic Hidings](https://z.cash/blog/snark-explain/)
 - [Explaining SNARKs Part II: Blind Evaluation of Polynomials](https://z.cash/blog/snark-explain2)
