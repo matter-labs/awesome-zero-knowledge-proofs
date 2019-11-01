@@ -37,7 +37,7 @@ A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
 - [Part III](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html)
 - [Appendix](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_4.html)
 
-More complete curated list of implementations and scientific ressources:
+More complete curated list of implementations and scientific resources:
 [https://zkp.science](https://zkp.science)
 
 ## Courses
@@ -82,7 +82,7 @@ More complete curated list of implementations and scientific ressources:
 
 ## Bulletproofs
 
-- [Introduction and collection of ressources](https://crypto.stanford.edu/bulletproofs/)
+- [Introduction and collection of resources](https://crypto.stanford.edu/bulletproofs/)
 - [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
 - [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol.
 
@@ -176,14 +176,14 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 ### PLONK
 
-(This is a recent develpment. Contributions are welcome!)
+(This is a recent development. Contributions are welcome!)
 
 - [Understanding PLONK by Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
 - [Ignition: Trusted Setup MPC Ceremony for PLONK (planned October 2019)](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
 
 ### Marlin
 
-(This is a recent develpment. Contributions are welcome!)
+(This is a recent development. Contributions are welcome!)
 
 - https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/
 
@@ -205,21 +205,21 @@ Vitalik Buterin's blog series on STARKs:
 - [Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
 - [Part III: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
 
-Academic ressources:
+Academic resources:
 - [The STARK paper](https://eprint.iacr.org/2018/046.pdf)
 - [libstark implemenation](https://github.com/elibensasson/libSTARK)
 
-More ressources available at [starkware.co](https://www.starkware.co)
+More resources available at [starkware.co](https://www.starkware.co)
 
 ### SuperSonic
 
-(This is a recent develpment. Contributions are welcome!)
+(This is a recent development. Contributions are welcome!)
 
 - https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/
 
 ### Fractal
 
-(This is a recent develpment. Contributions are welcome!)
+(This is a recent development. Contributions are welcome!)
 
 - https://eprint.iacr.org/2019/1076
 
