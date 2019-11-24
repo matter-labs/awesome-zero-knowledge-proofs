@@ -147,6 +147,7 @@ Protocol descriptions:
 - [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark)
 - [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
 - [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates)
+  - [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
 - [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks)
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
 
