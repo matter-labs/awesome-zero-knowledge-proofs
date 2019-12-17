@@ -49,7 +49,7 @@ More complete curated list of implementations and scientific resources:
 ### Ethereum
 
 - [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io/)
-  - [Code on github](https://github.com/matter-labs/zksync/wiki)
+  - [Code on github](https://github.com/matter-labs/zksync)
   - [Live demo](https://demo.matter-labs.io/explorer/)
 - [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
