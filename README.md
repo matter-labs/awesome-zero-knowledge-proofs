@@ -22,7 +22,7 @@
   - [Fractal](#fractal)
 - [Social media](#social-media)
 
-## General introduction
+## General introduction⁄⁄1⁄
 
 [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519): alternative introductory list for beginners (more videos).
 
@@ -119,6 +119,11 @@ Why and How zk-SNARK Works:
 ](https://medium.com/@imolfar/why-and-how-zk-snark-works-6-verifiable-computation-protocol-1aa19f95a5cc)
 - [Why and How zk-SNARK Works 7: Constraints and Public Inputs](https://medium.com/@imolfar/why-and-how-zk-snark-works-7-constraints-and-public-inputs-e95f6596dd1c)
 - [Why and How zk-SNARK Works 8: Zero-Knowledge Computation](https://medium.com/@imolfar/why-and-how-zk-snark-works-8-zero-knowledge-computation-f120339c2c55)
+
+ZkStudyClub:
+- [ZkStudyClub Part 1: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=bz16BURH_u8)
+- [ZkStudyClub Part 2: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=BfV7HBHXfC0)
+- [ZkStudyClub Part 3: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=TbNauD5wgXM)
 
 Zcash blog series:
 - [Explaining SNARKs Part I: Homomorphic Hidings](https://z.cash/blog/snark-explain/)
