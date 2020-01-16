@@ -22,7 +22,7 @@
   - [Fractal](#fractal)
 - [Social media](#social-media)
 
-## General introduction⁄⁄1⁄
+## General introduction
 
 [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519): alternative introductory list for beginners (more videos).
 
