@@ -171,7 +171,7 @@ Protocol descriptions:
 
 ## SNORKs
 
-> SNORK = **S**uccinct **O**ecumenical (Universal) **AR**guments of **K**nowledge
+> SNORK = **S**uccinct **N**on-interactive **O**ecumenical (Universal) a**R**guments of **K**nowledge
 
 SNORKs are SNARKs with universal and updateable trusted setup.
 
