@@ -222,6 +222,7 @@ More resources available at [starkware.co](https://www.starkware.co)
 
 (This is a recent development. Contributions are welcome!)
 
+- [Transparent SNARKs from DARK Compilers (Dec 2019)](https://eprint.iacr.org/2019/1229.pdf)
 - https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/
 
 ### Fractal
