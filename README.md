@@ -32,10 +32,10 @@
 - [On Interactive Proofs and Zero-Knowledge: A Primer](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
 
 A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
-- [Part I](http://www.shirpeled.com/2018/09/a-hands-on-tutorial-for-zero-knowledge.html)
-- [Part II](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge.html)
-- [Part III](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html)
-- [Appendix](http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_4.html)
+- [Part I](https://www.shirpeled.com/2018/09/a-hands-on-tutorial-for-zero-knowledge.html)
+- [Part II](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge.html)
+- [Part III](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html)
+- [Appendix](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_4.html)
 
 More complete curated list of implementations and scientific resources:
 [https://zkp.science](https://zkp.science)
@@ -64,7 +64,7 @@ More complete curated list of implementations and scientific resources:
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
 - [Coda: A Constant-Size Blockchain](https://codaprotocol.com) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
-- [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](http://grin-tech.org) (Bulletproofs)
+- [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
 
 ## Comparison of the most popular zkp systems
@@ -85,7 +85,7 @@ More complete curated list of implementations and scientific resources:
 
 - [Introduction and collection of resources](https://crypto.stanford.edu/bulletproofs/)
 - [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
-- [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol.
+- [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol
 
 ### Try
 - [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs)
@@ -125,14 +125,14 @@ ZkStudyClub:
 - [ZkStudyClub Part 2: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=BfV7HBHXfC0)
 - [ZkStudyClub Part 3: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=TbNauD5wgXM)
 
-Zcash blog series:
-- [Explaining SNARKs Part I: Homomorphic Hidings](https://z.cash/blog/snark-explain/)
-- [Explaining SNARKs Part II: Blind Evaluation of Polynomials](https://z.cash/blog/snark-explain2)
-- [Explaining SNARKs Part III: The Knowledge of Coefficient Test and Assumption](https://z.cash/blog/snark-explain3/)
-- [Explaining SNARKs Part IV: How to make Blind Evaluation of Polynomials Verifiable](https://z.cash/blog/snark-explain4)
-- [Explaining SNARKs Part V: From Computations to Polynomials](https://z.cash/blog/snark-explain5/)
-- [Explaining SNARKs Part VI: The Pinocchio Protocol](https://z.cash/blog/snark-explain6)
-- [Explaining SNARKs Part VII: Pairings of Elliptic Curves](https://z.cash/blog/snark-explain7)
+Electric Coin blog series:
+- [Explaining SNARKs Part I: Homomorphic Hidings](https://electriccoin.co/blog/snark-explain/)
+- [Explaining SNARKs Part II: Blind Evaluation of Polynomials](https://electriccoin.co/blog/snark-explain2/)
+- [Explaining SNARKs Part III: The Knowledge of Coefficient Test and Assumption](https://electriccoin.co/blog/snark-explain3/)
+- [Explaining SNARKs Part IV: How to make Blind Evaluation of Polynomials Verifiable](https://electriccoin.co/blog/snark-explain4/)
+- [Explaining SNARKs Part V: From Computations to Polynomials](https://electriccoin.co/blog/snark-explain5/)
+- [Explaining SNARKs Part VI: The Pinocchio Protocol](https://electriccoin.co/blog/snark-explain6/)
+- [Explaining SNARKs Part VII: Pairings of Elliptic Curves](https://electriccoin.co/blog/snark-explain7/)
 
 Vitalik Buterin's blog series on SNARKs:
 - [Part 1: Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
@@ -140,7 +140,7 @@ Vitalik Buterin's blog series on SNARKs:
 - [Part 3: Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 
 Protocol descriptions:
-- [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
+- [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 - [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 - [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) (very useful as detailed cheat-sheet of all cryptography used)
 
@@ -148,7 +148,7 @@ Protocol descriptions:
 
 - [libsnark (C++)](https://github.com/scipr-lab/libsnark)
   - [great tutorial](https://github.com/christianlundkvist/libsnark-tutorial)
-- [bellmnan (rust)](https://github.com/zkcrypto/bellman/)
+- [bellman (rust)](https://github.com/zkcrypto/bellman/)
   - [demo circuit](https://github.com/ebfull/bellman-demo)
 - [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark)
 - [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
@@ -166,7 +166,7 @@ Protocol descriptions:
 
 - [“Powers of Tau” protocol for scalable generation of structured reference string](https://eprint.iacr.org/2017/1050)
 - [Implementation of ZCash MPC Ceremony, Part I: "Powers of Tau"](https://github.com/ebfull/powersoftau)
-  - [Independent implementation in Go](https://github.com/FiloSottile/powersoftau/)
+  - [Archived independent implementation in Go](https://github.com/FiloSottile/powersoftau/)
 - [Implementation of ZCash MPC Ceremony, Part I: "Sapling Circuit"](https://github.com/zcash-hackworks/sapling-mpc)
 
 ## SNORKs
@@ -186,13 +186,13 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 (This is a recent development. Contributions are welcome!)
 
 - [Understanding PLONK by Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
-- [Ignition: Trusted Setup MPC Ceremony for PLONK (planned October 2019)](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
+- [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
 
 ### Marlin
 
 (This is a recent development. Contributions are welcome!)
 
-- https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/
+- [A Marlin is One of the Fastest SNARKs in the Ocean](https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/)
 
 ## STARKS
 
@@ -223,13 +223,13 @@ More resources available at [starkware.co](https://www.starkware.co)
 (This is a recent development. Contributions are welcome!)
 
 - [Transparent SNARKs from DARK Compilers (Dec 2019)](https://eprint.iacr.org/2019/1229.pdf)
-- https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/
+- [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)
 
 ### Fractal
 
 (This is a recent development. Contributions are welcome!)
 
-- https://eprint.iacr.org/2019/1076
+- [Fractal: Post-Quantum and Transparent Recursive Proofs from Holography](https://eprint.iacr.org/2019/1076)
 
 ## Social media
 
