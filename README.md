@@ -148,6 +148,7 @@ Protocol descriptions:
 
 - [libsnark (C++)](https://github.com/scipr-lab/libsnark)
   - [great tutorial](https://github.com/christianlundkvist/libsnark-tutorial)
+  - [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
 - [bellman (rust)](https://github.com/zkcrypto/bellman/)
   - [demo circuit](https://github.com/ebfull/bellman-demo)
 - [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark)
