@@ -148,18 +148,17 @@ Protocol descriptions:
 
 - [libsnark (C++)](https://github.com/scipr-lab/libsnark)
   - [great tutorial](https://github.com/christianlundkvist/libsnark-tutorial)
-  - [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
 - [bellman (rust)](https://github.com/zkcrypto/bellman/)
   - [demo circuit](https://github.com/ebfull/bellman-demo)
 - [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark)
 - [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
 - [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates)
   - [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
+  - [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
 - [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks)
 - [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark)
 - [circom and snarkjs tutorial](https://github.com/iden3/circom/blob/master/TUTORIAL.md)
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
-
 
 ### Scaling the prover
 
