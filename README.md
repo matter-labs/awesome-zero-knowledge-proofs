@@ -66,6 +66,7 @@ More complete curated list of implementations and scientific resources:
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
+- [Suterusu: A general-purpose layer-2 privacy protocol](https://www.suterusu.io)
 
 ## Comparison of the most popular zkp systems
 
