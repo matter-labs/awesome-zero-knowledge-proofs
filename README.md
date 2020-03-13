@@ -107,6 +107,7 @@ More complete curated list of implementations and scientific resources:
 Get started:
 - [Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
 - [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
+- [BabySNARK- The simplest possible SNARK for NP. You know, for kids!](https://github.com/initc3/babySNARK)
 
 Why and How zk-SNARK Works:
 
