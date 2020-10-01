@@ -37,6 +37,10 @@ A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
 - [Part III](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html)
 - [Appendix](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_4.html)
 
+Zero-Knowledge Proofs for Engineers (Dark Forest)
+- [Part I](https://blog.zkga.me/intro-to-zksnarks)
+- [Part II](https://blog.zkga.me/df-init-circuit)
+
 More complete curated list of implementations and scientific resources:
 [https://zkp.science](https://zkp.science)
 
@@ -57,6 +61,7 @@ More complete curated list of implementations and scientific resources:
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
 - [Loopring DEX Protocol (v3)](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 - [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node)
+- [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
 
 ### Other blockchains
 
