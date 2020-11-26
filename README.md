@@ -192,6 +192,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 - [Understanding PLONK by Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
 - [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
+- [Matter Labs' implementation (Rust)](https://github.com/matter-labs/bellman/tree/plonk_release)
 
 ### Marlin
 
