@@ -90,7 +90,7 @@ More complete curated list of implementations and scientific resources:
 ## Bulletproofs
 
 - [Introduction and collection of resources](https://crypto.stanford.edu/bulletproofs/)
-- [From Zero (Knowledge) to Bulletproofs](https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/) - a long and very nice gradual explanation
+- [From Zero (Knowledge) to Bulletproofs](https://github.com/AdamISZ/from0k2bp) - a long and very nice gradual explanation
 - [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol
 
 ### Try
