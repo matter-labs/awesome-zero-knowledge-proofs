@@ -204,6 +204,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 (This is a recent development. Contributions are welcome!)
 
 - [A Marlin is One of the Fastest SNARKs in the Ocean](https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/)
+- [Marlin: Preprocessing zkSNARKs oki okwith Universal and Updatable SRS](https://eprint.iacr.org/2019/1047.pdf)
 
 ## STARKS
 
@@ -248,3 +249,4 @@ Stay tuned!
 
 - [Awesome zero knowledge twitter list](https://twitter.com/gluk64/lists/awesome-zkp)
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm)
+- [ZKProof, an academic and industry initiative for standardizing Zero Knowledge Proofs](https://zkproof.org/)
