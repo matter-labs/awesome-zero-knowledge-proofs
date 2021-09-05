@@ -216,6 +216,11 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 STARKs are SNARKs without Trusted Setup.
 
+### Learn
+
+Get started:
+- [STARK @ Home {video playlist}](https://www.youtube.com/playlist?list=PLcIyXLwiPilUFGw7r2uyWerOkbx4GFMXq)
+
 ### FRI-STARKs
 
 Introduction:
