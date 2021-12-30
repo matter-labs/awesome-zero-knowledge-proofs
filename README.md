@@ -89,7 +89,7 @@ More complete curated list of implementations and scientific resources:
 | Ethereum/EVM verification gas cost    | ~600k (Groth16)            | ~2.5M (estimate, no impl.)    | N/A             |
 | Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
 | Post-quantum secure                   | NO :unamused:              | YES :smile:                   | NO :unamused:   |
-| Crypto assumptions                    | Strong :unamused:          | Collision resistant hashes :smile: | Discrete log :smirk: |
+| Crypto assumptions                    | DLP + secure bilinear pairing :unamused:          | Collision resistant hashes :smile: | Discrete log :smirk: |
 
 ## Bulletproofs
 
