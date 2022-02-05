@@ -1,0 +1,15 @@
+# CODEOWNERS file
+#
+# This file is used to describe who owns what in this repository.
+#
+# For documentation on this file, see https://help.github.com/articles/about-codeowners/
+# Mentioned users will get code review requests.
+#
+# IMPORTANT NOTE: in order to actually get pinged, commit access is required.
+# This also holds true for GitHub teams.
+
+# This file
+/.github/CODEOWNERS @MatthewCroughan
+
+# Any nix code
+*.nix @MatthewCroughan @nixinator @DarthPJB
