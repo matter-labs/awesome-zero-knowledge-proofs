@@ -77,6 +77,23 @@ More complete curated list of implementations and scientific resources:
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
 
+## Comparison of the different scaling options
+
+| Operating environment  | eth  | zkrollup | zkporter | Optimism | Arbitrum |   AnyTrust   |
+| :----:  | :-:  | :-: | :-:  | :-: | :-:  | :-: |
+| Using layer2 technology | layer1  | zk rollup | Validium  | Optimistic | Optimistic  | Plasma |
+| Ordinary transaction fee | 1.575u | 0.07u（down 95.55%） | 0.01-0.03u  | 0.29u | 0.62u  | same as zkporter |
+| Swap transaction fees | 7.5u | 0.1672u（down 97.77%） | 0.01-0.03u  | 0.405u | 0.83u  | same as zkporter |
+| Limit TPS (normal transaction) | 109.89 | 11818 | 20000+  | 1588 | 1588  | same as zkporter |
+| Limit TPS (swap) | 23.07 | 10130 | 20000+  | 691 | 691  | same as zkporter |
+| Partial TPS (normal transaction) | 36.63 | 3939 | 20000+  | 529 | 529  | same as zkporter |
+| Partial TPS (swap) | 7.69 | 3376.8 | 20000+  | 230 | 230  | same as zkporter |
+| Maximum scalability (transactions) | 1 | 107.5 | 181.9+  | 16.7 | 16.7  | same as zkporter |
+| Maximum scalability (swap) | 1 | 439.11 | 866.9+  | 34.7 | 34.7  | same as zkporter |
+| security level | 5 | 5 | 3  | 4 | 4  | 2 |
+
+ps: eth 2500u, gaslimit 3000w, gas 30Gwei, block time 13s, limit TPS occupies all block space, normal TPS occupies 1/3 of block space
+
 ## Comparison of the most popular zkp systems
 
 |                                       | SNARKs                     | STARKs                        | Bulletproofs    |
