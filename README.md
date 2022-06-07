@@ -49,6 +49,10 @@ More complete curated list of implementations and scientific resources:
 - [The 9th BIU Winter School on Cryptography: Zero Knowledge](https://cyber.biu.ac.il/event/the-9th-biu-winter-school-on-cryptography/)
 - [UIUC: ECE498AC/CS498AM: Applied Cryptography, Fall 2019](http://soc1024.ece.illinois.edu/teaching/ece498ac/fall2019/)
 
+## Use cases
+
+- [Awesome Privacy on Blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
+
 ## Applications
 
 ### Ethereum
@@ -85,7 +89,7 @@ More complete curated list of implementations and scientific resources:
 | Ethereum/EVM verification gas cost    | ~600k (Groth16)            | ~2.5M (estimate, no impl.)    | N/A             |
 | Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
 | Post-quantum secure                   | NO :unamused:              | YES :smile:                   | NO :unamused:   |
-| Crypto assumptions                    | Strong :unamused:          | Collision resistant hashes :smile: | Discrete log :smirk: |
+| Crypto assumptions                    | DLP + secure bilinear pairing :unamused:          | Collision resistant hashes :smile: | Discrete log :smirk: |
 
 ## Bulletproofs
 
@@ -211,6 +215,11 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 > STARK = **S**uccinct (**S**calable) **T**ransparent **AR**guments of **K**nowledge
 
 STARKs are SNARKs without Trusted Setup.
+
+### Learn
+
+Get started:
+- [STARK @ Home {video playlist}](https://www.youtube.com/playlist?list=PLcIyXLwiPilUFGw7r2uyWerOkbx4GFMXq)
 
 ### FRI-STARKs
 
