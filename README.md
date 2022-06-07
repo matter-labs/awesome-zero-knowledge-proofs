@@ -20,6 +20,7 @@
   - [FRI-STARKs](#fri-starks)
   - [SuperSonic](#supersonic)
   - [Fractal](#fractal)
+- [ZK-friendly Hash Functions](#zk-friendly-hash-functions)
 - [Social media](#social-media)
 
 ## General introduction
@@ -252,6 +253,13 @@ More resources available at [starkware.co](https://www.starkware.co)
 
 - [Fractal: Post-Quantum and Transparent Recursive Proofs from Holography](https://eprint.iacr.org/2019/1076)
 
+## ZK-friendly Hash Functions
+
+- [MiMC: Efficient encryption and cryptographic hashing with minimal multiplicative complexity](https://eprint.iacr.org/2016/492.pdf)
+- [STARK Friendly Hash--Survey and Recommendation](https://eprint.iacr.org/2020/948.pdf)
+- [Poseidon: A New Hash Function for Zero-Knowledge Proof Systems](https://eprint.iacr.org/2019/458.pdf)
+- [Rescue-Prime: a standard specification (SoK)](https://eprint.iacr.org/2020/1143.pdf)
+
 ## Social media
 
 Stay tuned!
@@ -259,3 +267,6 @@ Stay tuned!
 - [Awesome zero knowledge twitter list](https://twitter.com/gluk64/lists/awesome-zkp)
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm)
 - [ZKProof, an academic and industry initiative for standardizing Zero Knowledge Proofs](https://zkproof.org/)
+
+## Newsletter
+- [zkMesh](https://zkmesh.substack.com/)
