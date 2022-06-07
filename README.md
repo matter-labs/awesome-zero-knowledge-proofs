@@ -267,3 +267,6 @@ Stay tuned!
 - [Awesome zero knowledge twitter list](https://twitter.com/gluk64/lists/awesome-zkp)
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm)
 - [ZKProof, an academic and industry initiative for standardizing Zero Knowledge Proofs](https://zkproof.org/)
+
+## Newsletter
+- [zkMesh](https://zkmesh.substack.com/)
