@@ -130,10 +130,12 @@ More complete curated list of implementations and scientific resources:
 - [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol
 
 ### Try
+
 - [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs)
 - [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs)
 
-### Proof system implementations:
+### Proof system implementations
+
 - [Programmable Constraint Systems for Bulletproofs](https://medium.com/interstellar/programmable-constraint-systems-for-bulletproofs-365b9feb92f7)
 
 ### Halo
@@ -181,6 +183,7 @@ Electric Coin blog series:
 - [Explaining SNARKs Part VII: Pairings of Elliptic Curves](https://electriccoin.co/blog/snark-explain7/)
 
 Vitalik Buterin's blog series on SNARKs:
+
 - [Part 1: Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 - [Part 2: Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - [Part 3: Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
