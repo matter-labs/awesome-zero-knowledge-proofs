@@ -44,13 +44,27 @@
 - [On Interactive Proofs and Zero-Knowledge: A Primer](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
 - [ZK Basics Cheatsheet](https://github.com/baro77/ZKbasicsCS) - a "for (not too much) dummies" poster, trying to not miss core concepts despite the simplified approach and topics selection
 
+[ZK whiteboard sessions by ZK Hack](https://zkhack.dev/whiteboard/):
+
+- [Part 1: What is a SNARK?](https://zkhack.dev/whiteboard/module-one/)
+- [Part 2: Building a SNARK (Part I):](https://zkhack.dev/whiteboard/module-one/)
+- [Part 3: Building a SNARK (Part 2)](https://zkhack.dev/whiteboard/module-three/)
+- [Part 4: SNARKS vs. STARKS](https://zkhack.dev/whiteboard/module-four/)
+- [Part 5: PLONK and Custom Gates with Adrian Hamelink](https://zkhack.dev/whiteboard/module-five/)
+- [Part 6: Lookup Arguments for Performance Optimisation](https://zkhack.dev/whiteboard/module-six/)
+- [Part 7: Zero Knowledge Virtual Machines (zkVM)](https://zkhack.dev/whiteboard/module-seven/)
+- [Part 8: Achieving Decentralised Private Computation](https://zkhack.dev/whiteboard/module-eight/)
+- [Part 9: Introduction to zkRollups](https://zkhack.dev/whiteboard/module-nine/)
+
 A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
+
 - [Part I](https://www.shirpeled.com/2018/09/a-hands-on-tutorial-for-zero-knowledge.html)
 - [Part II](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge.html)
 - [Part III](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html)
 - [Appendix](https://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_4.html)
 
 Zero-Knowledge Proofs for Engineers (Dark Forest)
+
 - [Part I](https://blog.zkga.me/intro-to-zksnarks)
 - [Part II](https://blog.zkga.me/df-init-circuit)
 
@@ -91,6 +105,10 @@ More complete curated list of implementations and scientific resources:
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
 
+### Non-blockchain
+
+- Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml)
+
 ## Comparison of the most popular zkp systems
 
 |                                       | SNARKs                     | STARKs                        | Bulletproofs    |
@@ -129,6 +147,7 @@ More complete curated list of implementations and scientific resources:
 ### Learn
 
 Get started:
+
 - [Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
 - [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
 - [BabySNARK- The simplest possible SNARK for NP. You know, for kids!](https://github.com/initc3/babySNARK)
@@ -146,11 +165,13 @@ Why and How zk-SNARK Works:
 - [Why and How zk-SNARK Works 8: Zero-Knowledge Computation](https://medium.com/@imolfar/why-and-how-zk-snark-works-8-zero-knowledge-computation-f120339c2c55)
 
 ZkStudyClub:
+
 - [ZkStudyClub Part 1: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=bz16BURH_u8)
 - [ZkStudyClub Part 2: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=BfV7HBHXfC0)
 - [ZkStudyClub Part 3: Polynomial Commitments with Justin Drake](https://www.youtube.com/watch?v=TbNauD5wgXM)
 
 Electric Coin blog series:
+
 - [Explaining SNARKs Part I: Homomorphic Hidings](https://electriccoin.co/blog/snark-explain/)
 - [Explaining SNARKs Part II: Blind Evaluation of Polynomials](https://electriccoin.co/blog/snark-explain2/)
 - [Explaining SNARKs Part III: The Knowledge of Coefficient Test and Assumption](https://electriccoin.co/blog/snark-explain3/)
@@ -165,6 +186,7 @@ Vitalik Buterin's blog series on SNARKs:
 - [Part 3: Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 
 Protocol descriptions:
+
 - [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 - [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 - [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) (very useful as detailed cheat-sheet of all cryptography used)
@@ -185,6 +207,7 @@ Protocol descriptions:
 - [circom and snarkjs tutorial](https://github.com/iden3/circom/blob/master/TUTORIAL.md)
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
 - [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs)
+
 ### Scaling the prover
 
 - [DIZK: Java library for distributed zero knowledge proof systems with Apache Spark](https://github.com/scipr-lab/dizk) (see the [research paper](https://eprint.iacr.org/2018/691))
@@ -233,21 +256,25 @@ STARKs are SNARKs without Trusted Setup.
 ### Learn
 
 Get started:
+
 - [STARK @ Home {video playlist}](https://www.youtube.com/playlist?list=PLcIyXLwiPilUFGw7r2uyWerOkbx4GFMXq)
 
 ### FRI-STARKs
 
 Introduction:
+
 - [Transparent Succinct Arguments by Alessandro Chiesa (Oct 2018)](https://gist.github.com/Haseeb-Qureshi/f552fdbbb649ed4bbfeb681beb4091e1)
 - [State of the STARK by Eli Ben-Sasson (Devcon IV, Oct 2018)](https://drive.google.com/file/d/1Osa0MXu-04dfwn1YOSgN6CXOgWnsp-Tu/view) ([video](https://www.youtube.com/watch?v=1KSwVIZ82hs))
 - [Introduction to ZK-STARKs by remco@0x.org](https://hackmd.io/s/rJHYnQ3Z4)
 
 Vitalik Buterin's blog series on STARKs:
+
 - [Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
 - [Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
 - [Part III: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
 
 Academic resources:
+
 - [The STARK paper](https://eprint.iacr.org/2018/046.pdf)
 - [libstark implemenation](https://github.com/elibensasson/libSTARK)
 
