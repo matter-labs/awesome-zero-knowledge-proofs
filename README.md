@@ -43,6 +43,7 @@
 - [Introduction to SNARKs/STARKs by Eli Ben-Sasson](https://www.youtube.com/watch?v=VUN35BC11Qw) (YouTube)
 - [On Interactive Proofs and Zero-Knowledge: A Primer](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
 - [ZK Basics Cheatsheet](https://github.com/baro77/ZKbasicsCS) - a "for (not too much) dummies" poster, trying to not miss core concepts despite the simplified approach and topics selection
+- [A Non-Mathematical Introduction to Zero Knowledge Proof](https://mirror.xyz/krinza.eth/5_Cr91cBK3XdkeHPQ9yjc7z_4NoTNxyqBiM4Jz4d5VE) - a ZKP primer for those who flunked algebra
 
 A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
 - [Part I](https://www.shirpeled.com/2018/09/a-hands-on-tutorial-for-zero-knowledge.html)
