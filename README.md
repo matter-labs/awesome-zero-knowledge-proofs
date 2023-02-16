@@ -5,22 +5,34 @@
 
 ## Contents
 
-- [General introduction](#general-introduction)
-- [Courses](#courses)
-- [Applications](#applications)
-- [Comparison of the most popular zkp systems](#comparison-of-the-most-popular-zkp-systems)
-- [Bulletproofs](#bulletproofs)
-  - [Halo](#halo)
-- [SNARKs](#snarks)
-- [SNORKs](#snorks)
-  - [Sonic](#sonic)
-  - [Marlin](#marlin)
-  - [PLONK](#plonk)
-- [STARKs](#starks)
-  - [FRI-STARKs](#fri-starks)
-  - [SuperSonic](#supersonic)
-  - [Fractal](#fractal)
-- [Social media](#social-media)
+- [Awesome zero knowledge proofs (zkp)](#awesome-zero-knowledge-proofs-zkp)
+  - [Contents](#contents)
+  - [General introduction](#general-introduction)
+  - [Courses](#courses)
+  - [Use cases](#use-cases)
+  - [Applications](#applications)
+    - [Ethereum](#ethereum)
+    - [Other blockchains](#other-blockchains)
+  - [Comparison of the most popular zkp systems](#comparison-of-the-most-popular-zkp-systems)
+  - [Bulletproofs](#bulletproofs)
+    - [Try](#try)
+    - [Proof system implementations:](#proof-system-implementations)
+    - [Halo](#halo)
+  - [SNARKs](#snarks)
+    - [Learn](#learn)
+    - [Try](#try-1)
+    - [Scaling the prover](#scaling-the-prover)
+    - [Multi-Party Ceremony (MPC) for Trusted Setup](#multi-party-ceremony-mpc-for-trusted-setup)
+  - [SNORKs](#snorks)
+    - [Sonic](#sonic)
+    - [PLONK](#plonk)
+    - [Marlin](#marlin)
+  - [STARKS](#starks)
+    - [Learn](#learn-1)
+    - [FRI-STARKs](#fri-starks)
+    - [SuperSonic](#supersonic)
+    - [Fractal](#fractal)
+  - [Social media](#social-media)
 
 ## General introduction
 
@@ -30,6 +42,8 @@
 - [Demystifying zero-knowledge proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p) ([video](https://www.youtube.com/watch?v=_6TqUNVLChc)) (math-heavy, awesome introduction into underlying cryptography)
 - [Introduction to SNARKs/STARKs by Eli Ben-Sasson](https://www.youtube.com/watch?v=VUN35BC11Qw) (YouTube)
 - [On Interactive Proofs and Zero-Knowledge: A Primer](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
+- [ZK Basics Cheatsheet](https://github.com/baro77/ZKbasicsCS) - a "for (not too much) dummies" poster, trying to not miss core concepts despite the simplified approach and topics selection
+- [A Non-Mathematical Introduction to Zero Knowledge Proof](https://mirror.xyz/krinza.eth/5_Cr91cBK3XdkeHPQ9yjc7z_4NoTNxyqBiM4Jz4d5VE) - a ZKP primer for those who flunked algebra
 
 A Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):
 - [Part I](https://www.shirpeled.com/2018/09/a-hands-on-tutorial-for-zero-knowledge.html)
@@ -70,9 +84,10 @@ More complete curated list of implementations and scientific resources:
 ### Other blockchains
 
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
-  - [chatroom](https://chat.zcashcommunity.com/channel/zapps-wg)
+  - [Community Chat](https://discord.gg/8t4zXje)
+  - [Forums](https://forum.zcashcommunity.com)
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
-- [Coda: A Constant-Size Blockchain](https://codaprotocol.com) (recursive SNARKs)
+- [Mina Protocol: A Constant-Size Blockchain](https://minaprotocol.com/) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
@@ -162,7 +177,7 @@ Protocol descriptions:
 - [bellman (rust)](https://github.com/zkcrypto/bellman/)
   - [demo circuit](https://github.com/ebfull/bellman-demo)
 - [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark)
-- [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
+- [snarky (Ocaml, from O(1) labs, team behind Mina Protocol)](https://github.com/o1-labs/snarky)
 - [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates)
   - [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   - [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
@@ -171,6 +186,7 @@ Protocol descriptions:
 - [circom and snarkjs tutorial](https://github.com/iden3/circom/blob/master/TUTORIAL.md)
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
   - [A circuit and zk-snark implement using Circom and SnarkJS by Luozhu](https://github.com/LuozhuZhang/zkps-circuit-snark)
+- [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs)
 
 ### Scaling the prover
 
