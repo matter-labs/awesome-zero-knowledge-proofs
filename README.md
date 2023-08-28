@@ -76,6 +76,7 @@ More complete curated list of implementations and scientific resources:
 
 - [The 9th BIU Winter School on Cryptography: Zero Knowledge](https://cyber.biu.ac.il/event/the-9th-biu-winter-school-on-cryptography/)
 - [UIUC: ECE498AC/CS498AM: Applied Cryptography, Fall 2019](http://soc1024.ece.illinois.edu/teaching/ece498ac/fall2019/)
+- [Zero Knowledge Proof, MOOC Spring 2023](https://zk-learning.org/)
 
 ## Use cases
 
