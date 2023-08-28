@@ -210,6 +210,7 @@ Protocol descriptions:
 - [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark)
 - [circom and snarkjs tutorial](https://github.com/iden3/circom/blob/master/TUTORIAL.md)
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
+  - [A circuit and zk-snark implement using Circom and SnarkJS by Luozhu](https://github.com/LuozhuZhang/zkps-circuit-snark)
 - [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs)
 
 ### Scaling the prover
