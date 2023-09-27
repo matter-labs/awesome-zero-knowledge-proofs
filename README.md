@@ -14,6 +14,7 @@
     - [Ethereum](#ethereum)
     - [Other blockchains](#other-blockchains)
   - [Comparison of the most popular zkp systems](#comparison-of-the-most-popular-zkp-systems)
+  - [ZK Benchmarks](#zk-benchmarks)
   - [Bulletproofs](#bulletproofs)
     - [Try](#try)
     - [Proof system implementations:](#proof-system-implementations)
