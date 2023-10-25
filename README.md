@@ -152,7 +152,7 @@ More complete curated list of implementations and scientific resources:
 
 Get started:
 
-- [Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
+- [Introduction to zk-SNARKs with examples](https://consensys.io/blog/introduction-to-zk-snarks)
 - [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
 - [BabySNARK- The simplest possible SNARK for NP. You know, for kids!](https://github.com/initc3/babySNARK)
 - [The MoonMath Manual to zk-SNARKs (A free learning resource for beginners to experts)](https://leastauthority.com/community-matters/moonmath-manual/)
