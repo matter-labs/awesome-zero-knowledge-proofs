@@ -99,7 +99,7 @@ More complete curated list of implementations and scientific resources:
 ### Other blockchains
 
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
-  - [Community Chat](https://discord.gg/8t4zXje)
+  - [Community Chat](https://discordapp.com/invite/PhJY6Pm)
   - [Forums](https://forum.zcashcommunity.com)
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
 - [Mina Protocol: A Constant-Size Blockchain](https://minaprotocol.com/) (recursive SNARKs)
