@@ -283,7 +283,7 @@ Vitalik Buterin's blog series on STARKs:
 Academic resources:
 
 - [The STARK paper](https://eprint.iacr.org/2018/046.pdf)
-- [libstark implemenation](https://github.com/elibensasson/libSTARK)
+- [libstark implementation](https://github.com/elibensasson/libSTARK)
 
 More resources available at [starkware.co](https://www.starkware.co)
 
