@@ -249,6 +249,8 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 - [Awesome PLONK](https://github.com/Fluidex/awesome-plonk): A curated list of awesome things related to plonk proof system.
 - [Understanding PLONK by Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
 - [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
+- [Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
+
 
 ### Marlin
 
