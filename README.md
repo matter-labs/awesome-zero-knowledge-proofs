@@ -106,6 +106,9 @@ More complete curated list of implementations and scientific resources:
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
+- [Namada: Asset Agnostic, Multichain privacy](https://namada.net/) (SNARKs)
+  - [Youtube Introduction](https://youtu.be/F2cPd7nwG7A?si=iHw93A3ziLc9neH5)
+  - [Specs Documentation](https://specs.namada.net/masp)
 
 ### Non-blockchain
 
