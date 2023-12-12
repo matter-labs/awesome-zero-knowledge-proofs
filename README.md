@@ -244,7 +244,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 (This is a recent development. Contributions are welcome!)
 
 - [Awesome PLONK](https://github.com/Fluidex/awesome-plonk): A curated list of awesome things related to plonk proof system.
-- [Understanding PLONK by Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [Understanding PLONK by Vitalik Buterin](https://vitalik.eth.limo/general/2019/09/22/plonk.html)
 - [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
 
 ### Marlin
@@ -276,9 +276,9 @@ Introduction:
 
 Vitalik Buterin's blog series on STARKs:
 
-- [Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
-- [Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
-- [Part III: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+- [Part I: Proofs with Polynomials](https://vitalik.eth.limo/general/2017/11/09/starks_part_1.html)
+- [Part II: Thank Goodness It's FRI-day](https://vitalik.eth.limo/general/2017/11/22/starks_part_2.html)
+- [Part III: Into the Weeds](https://vitalik.eth.limo/general/2018/07/21/starks_part_3.html)
 
 Academic resources:
 
