@@ -110,6 +110,9 @@ More complete curated list of implementations and scientific resources:
 ### Non-blockchain
 
 - Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml)
+- [zk-email](https://github.com/zkemail)
+- [Proof of Passport](https://github.com/zk-passport/proof-of-passport)
+- [Semaphore](https://github.com/semaphore-protocol/semaphore)
 
 ## Comparison of the most popular zkp systems
 
