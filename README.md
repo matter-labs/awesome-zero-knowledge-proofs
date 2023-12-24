@@ -197,6 +197,11 @@ Protocol descriptions:
 - [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 - [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) (very useful as detailed cheat-sheet of all cryptography used)
 
+OxPARC learning group:
+
+- [Circom](https://learn.0xparc.org/circom)
+- [Halo2](https://learn.0xparc.org/halo2)
+
 ### Try
 
 - [libsnark (C++)](https://github.com/scipr-lab/libsnark)
