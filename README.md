@@ -49,7 +49,7 @@
 
 - [Part 1: What is a SNARK?](https://zkhack.dev/whiteboard/module-one/)
 - [Part 2: Building a SNARK (Part I):](https://zkhack.dev/whiteboard/module-one/)
-- [Part 3: Building a SNARK (Part 2)](https://zkhack.dev/whiteboard/module-three/)
+- [Part 3: Building a SNARK (Part II)](https://zkhack.dev/whiteboard/module-three/)
 - [Part 4: SNARKS vs. STARKS](https://zkhack.dev/whiteboard/module-four/)
 - [Part 5: PLONK and Custom Gates with Adrian Hamelink](https://zkhack.dev/whiteboard/module-five/)
 - [Part 6: Lookup Arguments for Performance Optimisation](https://zkhack.dev/whiteboard/module-six/)
