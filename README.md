@@ -143,6 +143,7 @@ More complete curated list of implementations and scientific resources:
 
 - [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs)
 - [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs)
+- [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo)
 
 ### Proof system implementations
 
