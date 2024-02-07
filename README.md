@@ -108,6 +108,9 @@ More complete curated list of implementations and scientific resources:
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
+- [Namada: Asset Agnostic, Multichain privacy](https://namada.net/) (SNARKs)
+  - [Youtube Introduction](https://youtu.be/F2cPd7nwG7A?si=iHw93A3ziLc9neH5)
+  - [Specs Documentation](https://specs.namada.net/masp)
 
 ### Non-blockchain
 
@@ -248,6 +251,8 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 - [Awesome PLONK](https://github.com/Fluidex/awesome-plonk): A curated list of awesome things related to plonk proof system.
 - [Understanding PLONK by Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
 - [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
+- [Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
+
 
 ### Marlin
 
