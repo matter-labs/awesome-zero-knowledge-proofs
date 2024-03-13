@@ -111,6 +111,10 @@ More complete curated list of implementations and scientific resources:
 - [Namada: Asset Agnostic, Multichain privacy](https://namada.net/) (SNARKs)
   - [Youtube Introduction](https://youtu.be/F2cPd7nwG7A?si=iHw93A3ziLc9neH5)
   - [Specs Documentation](https://specs.namada.net/masp)
+- [IronFish: Privacy-Preserving Regulatory-Friendly Cryptocurrency Platform](https://ironfish.network/use/get-started/get-started) (Groth16 zk-SNARKs)
+  - [Whitepaper](https://ironfish.network/learn/whitepaper)
+  - [Community Chat](https://discord.ironfish.network/)
+  - [YouTube Channel](https://www.youtube.com/@ironfishnetwork)
 
 ### Non-blockchain
 
