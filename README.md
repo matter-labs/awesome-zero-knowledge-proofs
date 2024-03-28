@@ -115,8 +115,8 @@ More complete curated list of implementations and scientific resources:
   - [Whitepaper](https://ironfish.network/learn/whitepaper)
   - [Community Chat](https://discord.ironfish.network/)
   - [YouTube Channel](https://www.youtube.com/@ironfishnetwork)
-- [succinct: Write ZKPs with Rust using SP1, a performant, open-source zkVM and generate proofs in 1-click on Succinct’s decentralized prover network]
-  - [document] (https://succinctlabs.github.io/sp1/)
+- [succinct: Write ZKPs with Rust using SP1, a performant, open-source zkVM and generate proofs in 1-click on Succinct’s decentralized prover network](https://succinct.xyz/)
+  - [document](https://succinctlabs.github.io/sp1/)
 
 
 ### Non-blockchain
