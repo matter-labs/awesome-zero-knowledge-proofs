@@ -234,6 +234,8 @@ OxPARC learning group:
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
   - [A circuit and zk-snark implement using Circom and SnarkJS by Luozhu](https://github.com/LuozhuZhang/zkps-circuit-snark)
 - [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs)
+- [tachyon - (C++)](https://github.com/kroma-network/tachyon)
+  - [Why Tachyon?](https://blog.kroma.network/why-tachyon-7f6201e9029b)
 
 ### Scaling the prover
 
