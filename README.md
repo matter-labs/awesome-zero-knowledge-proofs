@@ -117,6 +117,7 @@ More complete curated list of implementations and scientific resources:
 - [succinct: Write ZKPs with Rust using SP1, a performant, open-source zkVM and generate proofs in 1-click on Succinct’s decentralized prover network](https://succinct.xyz/)
   - [document](https://succinctlabs.github.io/sp1/)
 - [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida)
+- [Nexus zkVM:  Nexus is a modular, extensible, open-source, highly-parallelized, prover-optimized, contributor-friendly, zkVM written in Rust, focused on performance and security.](https://nexus.xyz/)
 
 ### Non-blockchain
 
