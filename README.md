@@ -15,6 +15,7 @@
     - [Other blockchains](#other-blockchains)
     - [Non-blockchain](#non-blockchain)
   - [Comparison of the most popular zkp systems](#comparison-of-the-most-popular-zkp-systems)
+  - [ZK Benchmarks](#zk-benchmarks)
   - [Bulletproofs](#bulletproofs)
     - [Try](#try)
     - [Proof system implementations](#proof-system-implementations)
@@ -139,6 +140,43 @@ More complete curated list of implementations and scientific resources:
 | Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
 | Post-quantum secure                   | NO :unamused:              | YES :smile:                   | NO :unamused:   |
 | Crypto assumptions                    | DLP + secure bilinear pairing :unamused:          | Collision resistant hashes :smile: | Discrete log :smirk: |
+
+## ZK Benchmarks
+
+[🏋️‍♀️ ZK Bench](https://zkbench.dev) - open source, continuous benchmarks for popular zk implementations
+
+| [**Polylang**](https://polylang.dev) | [**Miden**](https://wiki.polygon.technology/docs/miden/) | [**Risc Zero**](https://risczero.com/) | [**Noir (Barretenberg)**](https://noir-lang.org/) | [**Leo**](https://leo-lang.org/) |
+|---|---|---|---|---|
+| **Frontend (Language)** | Typescript-like | MASM (Assembly) | Rust, C, C++ | Rust-like | Leo (DSL) |
+| **ZK** | STARK | STARK / zkVM | STARK / zkVM | SNARK | SNARK |
+| **Unbounded Programs** | ✅ | ✅ | ✅ | ❌ | ❌ |
+| **Audit** | ❌ Planned 2024 | ❌ Planned 2024 | ❌ Planned 2024 | ❌ Planned 2024 | ❌ Planned 2023 |
+| **External Libraries** | ❌ | ⚠️ | ✅ | ⚠️ | ⚠️ |
+| **EVM Verifier** | ⚠️ | ⚠️ | ✅ | ✅ | ❌ |
+| **GPU** | ✅ Metal | ✅ Metal | ✅ Metal, CUDA | ❌ | ❌ |
+| **Assert** | 0.05s | 0.03s | 6.18s | 0.01s | 3.11s |
+| **Optimised Hashes** | RPO+2 more | RPO+2 more | SHA-256 | Pedersen+2 more | Pedersen+3 more |
+| **SHA-256 Hash** |  |  |  |  |  |
+| **1k bytes** | 21.55s | 20.33s | 6.20s | 3.63s | 2.81s |
+| **10k bytes** | 235.71s | 177.79s | 6.27s | 33.89s | 10.81s |
+| **Pedersen Hash** |  |  |  |  |  |
+| **1k bytes** | ❌ | ❌ | ❌ | 0.54s | 1.99s |
+| **10k bytes** | ❌ | ❌ | ❌ | 1.87s | 2.28s |
+| **RPO Hash** |  |  |  |  |  |
+| **1k bytes** | 0.17s | 0.03s | ❌ | ❌ | ❌ |
+| **10k bytes** | 1.85s | 0.30s | ❌ | ❌ | ❌ |
+| **Fibonacci** |  |  |  |  |  |
+| **1** | 0.03s | 0.03s | 6.20s | 0.01s | 1.89s |
+| **10** | 0.05s | 0.03s | 6.21s | 0.01s | 1.89s |
+| **100** | 0.16s | 0.03s | 6.20s | 0.01s | 1.88s |
+| **1,000** | 2.56s | 0.08s | 6.17s | 0.01s | 1.89s |
+| **10,000** | 21.17s | 0.59s | 12.57s | 0.01s | 1.91s |
+| **100,000** | 221.24s | 9.55s | 105.13s | 0.01s | 🚧 |
+| **Merkle Tree** |  |  |  |  |  |
+| **Membership Proof** | 🚧 | 0.06s | 12.56s | 3.52s | 🚧 |
+| **Merge** |  |  |  |  |  |
+| **1 + 1** | 🚧 | 0.06s | 12.65s | 🚧 | 🚧 |
+
 
 ## Bulletproofs
 
