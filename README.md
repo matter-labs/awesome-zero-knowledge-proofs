@@ -3,6 +3,7 @@
 > [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome things related to learning zero knowledge proofs
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for zero-knowledge proof workflow orchestration, automated cryptographic pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Awesome zero knowledge proofs (zkp)](#awesome-zero-knowledge-proofs-zkp)
