@@ -103,6 +103,8 @@ More complete curated list of implementations and scientific resources:
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
   - [Community Chat](https://discord.com/invite/zcash)
   - [Forums](https://forum.zcashcommunity.com)
+  - [zcash-mcp: MCP server for Zcash shielded operations](https://github.com/Frontier-Compute/zcash-mcp) - 22 tools for AI agents: shielded send, memo decode, ZAP1 attestation, Merkle proof verification
+  - [zap1-verify: on-chain ZAP1 proof verification](https://github.com/Frontier-Compute/zap1-verify) - Rust crate and EVM contracts for verifying ZAP1 Merkle proofs across 5 EVM chains
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
 - [Mina Protocol: A Constant-Size Blockchain](https://minaprotocol.com/) (recursive SNARKs)
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
