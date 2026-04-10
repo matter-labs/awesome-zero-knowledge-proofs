@@ -330,3 +330,4 @@ Stay tuned!
 - [Awesome zero knowledge twitter list](https://twitter.com/gluk64/lists/awesome-zkp)
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm)
 - [ZKProof, an academic and industry initiative for standardizing Zero Knowledge Proofs](https://zkproof.org/)
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=matter-labs_awesome-zero-knowledge-proofs) - A social feed for GitHub. Follow devs, see what they star, find repos through people not algorithms.
