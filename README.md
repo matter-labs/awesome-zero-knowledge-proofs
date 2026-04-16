@@ -4,6 +4,7 @@
 > A curated list of awesome things related to learning zero knowledge proofs
 
 ## Contents
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 - [Awesome zero knowledge proofs (zkp)](#awesome-zero-knowledge-proofs-zkp)
   - [Contents](#contents)
