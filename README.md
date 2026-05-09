@@ -119,6 +119,10 @@ More complete curated list of implementations and scientific resources:
 - [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida)
 - [Nexus zkVM:  Nexus is a modular, extensible, open-source, highly-parallelized, prover-optimized, contributor-friendly, zkVM written in Rust, focused on performance and security.](https://nexus.xyz/)
 
+- [Paraloom: Privacy Layer 2 for Solana](https://paraloom.io) (Groth16 zk-SNARKs)
+  - [Documentation](https://docs.paraloom.io)
+  - [GitHub](https://github.com/paraloom-labs/paraloom-core)
+
 ### Non-blockchain
 
 - Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml)
