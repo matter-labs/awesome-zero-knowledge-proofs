@@ -122,6 +122,7 @@ More complete curated list of implementations and scientific resources:
 ### Non-blockchain
 
 - Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - ZK-verifiable trust receipts for AI agents on Solana. Cryptographic on-chain attestation of agent identity without revealing identity details — privacy-preserving agent authorization using verifiable credentials. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [zk-email](https://github.com/zkemail)
 - [Proof of Passport](https://github.com/zk-passport/proof-of-passport)
 - [Semaphore](https://github.com/semaphore-protocol/semaphore)
