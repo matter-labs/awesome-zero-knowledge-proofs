@@ -108,6 +108,8 @@ More complete curated list of implementations and scientific resources:
   - [YouTube introduction](https://www.youtube.com/watch?v=qCVACpgQSjo)
 - [Grin: Simple, privacy-focused, scalable MimbleWimble chain implementation](https://grin.mw/) (Bulletproofs)
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
+- [Zecnero: Zcash fork with Sapling and Orchard shielded pools and RandomX proof of work](https://zecnero.org) (SNARKs)
+  - [Protocol specification](https://zecnero.org/zecnero-protocol.pdf)
 - [Namada: Asset Agnostic, Multichain privacy](https://namada.net/) (SNARKs)
   - [Youtube Introduction](https://youtu.be/F2cPd7nwG7A?si=iHw93A3ziLc9neH5)
 - [IronFish: Privacy-Preserving Regulatory-Friendly Cryptocurrency Platform](https://ironfish.network/use/get-started/get-started) (Groth16 zk-SNARKs)
