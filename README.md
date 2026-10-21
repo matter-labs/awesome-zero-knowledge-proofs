@@ -1,3 +1,5 @@
+> **This list is no longer maintained.** It's archived and read-only. Thanks to everyone who contributed over the years. The field has moved a lot since the last updates, so for the current state of zkVMs and proving, [ethproofs.org](https://ethproofs.org) is a good place to start.
+
 # Awesome zero knowledge proofs (zkp)
 
 > [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
